@@ -28,7 +28,7 @@ public class Logintest {
 	
 		Thread.sleep(3000);
 		
-		driver.quit();
+		driver.close();
 		
 		
 
